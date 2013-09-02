@@ -14,8 +14,8 @@
 
 	hidden_maps
 	{
-		"test_speakers"	1
-		"test_hardware" 1
+		"test_speakers"	0
+		"test_hardware" 0
 	}
 
 	FileSystem
