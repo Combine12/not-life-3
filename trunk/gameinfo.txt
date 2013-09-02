@@ -1,0 +1,35 @@
+"GameInfo"
+{
+	game		"Not-Life 3 Development Build"
+	title		" "
+	title2		" "
+
+	developer	"AndroSoft"
+	developer_url	"Coming Soon"
+	type		"singleplayer_only"
+
+	icon            "nl3.ico"
+	nomodels	0
+	nocrosshair	1
+
+	hidden_maps
+	{
+		"test_speakers"	1
+		"test_hardware" 1
+	}
+
+	FileSystem
+	{
+		SteamAppId 218
+		ToolsAppId 211
+
+		SearchPaths
+		{
+			Game |gameinfo_path|.
+			Game hl2
+			Game ep1
+			Game ep2
+			Game episodic
+		}
+	}
+}
