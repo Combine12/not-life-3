@@ -8,7 +8,7 @@
 	developer_url	"Coming Soon"
 	type		"singleplayer_only"
 
-	icon            "nl3.ico"
+	icon            "nl3"
 	nomodels	0
 	nocrosshair	1
 
