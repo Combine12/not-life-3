@@ -1,0 +1,1 @@
+Not-Life 3 is a mod for Half-Life 2 episode two that aims to fill in for episode 3. It includes many new assets and unique design. It will be great and aim to achieve perfection.
